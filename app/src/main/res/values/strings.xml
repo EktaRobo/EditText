@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EditText</string>
+    <string name="dialog_close_button">Close</string>
+    <string name="hint_job_category">Select your favorite food</string>
 </resources>
